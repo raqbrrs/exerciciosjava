@@ -25,5 +25,14 @@ public class opAritmeticos {
         System.out.printf("%s - %s = %s\n", value1, value2, value1 - value2); 
 
     }
+    /*
+   -9 - - 22
+    -9 + 22 = 13     
+    */
+    
+    /*
+    operadores aritmeticos somente substituí-lo (4 operações matemáticas, resto) 
+   - caso a gente queira trabalhar com float, é so apenas substituir o nextInt por nextFloat
+    */
     
 }
